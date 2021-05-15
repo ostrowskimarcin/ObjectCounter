@@ -1,2 +1,3 @@
 # ObjectCounter
-Aplikacja zliczająca obiekty na nagraniu oparta o OpenCV. Zawiera dodatkowo API Google Drive oraz Pushbullet.
+Application for tracking and counting objects in real time.
+App collects images of object and stores on Google Drive. After detecting, sends notification on Pushbullet App.
